@@ -4,7 +4,7 @@ The project uses Principal Component Analysis(PCA) to find the eigenfaces of a s
 ## Skree Plot
 We obseve ~95% of the variance in the data is explained by the first 60 eigenfaces.
 Display image:
-![Skree Plot](skree.png)
+![Skree Plot](./skree.png)
 
 ## Classifiers
 The classifiers used are:
